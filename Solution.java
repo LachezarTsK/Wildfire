@@ -1,5 +1,3 @@
-package wildfire;
-
 import java.util.LinkedList;
 
 public class Solution {
